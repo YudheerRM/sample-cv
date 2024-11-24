@@ -22,9 +22,7 @@ Installation
 
 To install and run the Online CV project locally, follow these steps:
 
-    Clone the repository:
-
-git clone https://github.com/yudheerrm/sample-cv.git
+    Clone the repository: git clone https://github.com/yudheerrm/sample-cv.git
 
 Navigate to the project directory:
 
